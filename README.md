@@ -1,4 +1,4 @@
-import requests
+import requests1
 
 def get_price(symbol):
     url = "https://api.coingecko.com/api/v3/simple/price"
